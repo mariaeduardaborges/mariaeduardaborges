@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mariaeduardaborges
+- 👀 I’m interested in exploring my habilities and becoming a better programmer
+- 🌱 I’m currently learning Java, Python and C++
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I’m a clean codder addicted.
